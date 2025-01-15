@@ -2,7 +2,10 @@ from glm import ivec2, vec2, ivec3, vec3
 
 TITLE = "midimech"
 # FOCUS = False
-NOTES = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
+#U+1D12C flat
+#1D130 sharp
+NOTES_SHARPS = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
+NOTES_FLATS = ["C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B"]
 WHOLETONE = True
 FONT_SZ = 32
 BRIGHTNESS = 0.4

@@ -39,7 +39,7 @@ LinnStrument Community Discord: https://discord.gg/h2BcrzmTXe
 
 ## Advantages
 
-- Notes that sound good together are closer together.  Notes that sound worse are furthest apart.  Mistakes will be less likely and less obvious!
+- Notes that sound good together are closer together.  Notes that sound worse are furthest apart.  Mistakes will be less likely and more obvious!
 - Like the LinnStrument's layout, it is also isomorphic (the same chord and scale shapes can be played anywhere)
 - The most common chords and scales are far easier to play and remember than other layouts.
 - Extended range compared to standard +5 tuning, making room for using a split.
@@ -77,7 +77,7 @@ That being said, I hope you enjoy it and have fun!
 
 ### Windows
 
-- [Download (Win)](https://github.com/flipcoder/midimech/releases)
+- [Download (Win)](https://github.com/zass30/midimech/releases)
 
 After downloading, make sure to follow the instructions under `Setup`.
 
@@ -87,7 +87,7 @@ After downloading, make sure to follow the instructions under `Setup`.
 
 - Download the project by typing the following commands in terminal:
 ```
-git clone https://github.com/flipcoder/midimech
+git clone https://github.com/zass30/midimech
 ```
 
 - Switch to the new project folder:
